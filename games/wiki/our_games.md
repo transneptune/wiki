@@ -4,7 +4,7 @@ Our Games
 Published:
 ----------
 
- - Becoming Heroes
+ - [Becoming Heroes](http://games.transneptune.net/games/becoming-heroes/)
 
 Beta:
 -----
