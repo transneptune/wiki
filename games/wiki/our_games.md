@@ -11,7 +11,7 @@ Published:
 Beta:
 -----
 
- - Piece of Work
+ - [Piece of Work](http://games.transneptune.net/games/a-piece-of-work/)
 
 Alpha:
 ------
