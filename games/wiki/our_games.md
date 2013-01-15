@@ -16,5 +16,5 @@ Beta:
 Alpha:
 ------
 
- - Et in Arcadia Ego
+ - [Et in Arcadia Ego](http://games.transneptune.net/games/et-in-arcadia-ego/)
  - Majesty
