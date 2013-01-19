@@ -14,7 +14,7 @@ A philosopher and cook, sometimes gentleman thief. Austin enjoys long walks on T
 Kit La Touche
 -------------
 
-A webdeveloper and Pythonista, sometimes werebear. Kit enjoys editing and typography, the weird phenomena to be observed in human languages, and wrecking ships on rocky beaches. He’s also responsible for maintaining the server where this is hosted. As such, his personal blog can be found [here](http://transneptune.net/blog/). He tweets a lot [@kobutsu](http://twitter.com/kobutsu).
+A webdeveloper and Pythonista, sometimes werebear. Kit enjoys editing and typography, the weird phenomena to be observed in human languages, and wrecking ships on rocky beaches. He’s also responsible for maintaining the server where this is hosted. As such, his personal blog can be found [here](http://transneptune.net/blog/). He tweets a lot [@wlonk](http://twitter.com/wlonk).
 
 John LeBoeuf-Little
 -------------------
