@@ -4,4 +4,4 @@ markdown:
     extensions:
         - extra
         - headerid
-        - mdx_smartypants
+        - smartypants
