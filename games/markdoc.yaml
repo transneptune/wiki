@@ -1,2 +1,5 @@
 wiki-name: "Transneptune Games"
 
+markdown:
+    extensions:
+        - extra
