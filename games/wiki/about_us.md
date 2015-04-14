@@ -40,8 +40,7 @@ Allie McCarthy
 --------------
 
 An artist and writer, sometimes ifrit. She can be found on Twitter
-[@HawleyQuinn](http://twitter.com/HawleyQuinn).
+[@SpacePlesiosaur](http://twitter.com/SpacePlesiosaur).
 
 And finally, many thanks to [Cat McCarthy](http://catmccarthy.com/) for our
 wonderful logo!
-
