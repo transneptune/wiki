@@ -12,8 +12,8 @@ do love it and want to get back to you.
 W. Austin Bookheimer
 --------------------
 
-A philosopher and cook, sometimes gentleman thief. Austin enjoys long walks on
-Titan VII’s methane-snow-covered beaches, and bonfire-lit dinners with the
+A philosopher and vampire, sometimes gentleman thief. Austin enjoys long walks
+on Titan VII’s methane-snow-covered beaches, and bonfire-lit dinners with the
 Maenads on the mountain. Given the choice between magic and cybernetics, he
 would choose cybernetics. When he tweets, it’s
 [@AugustAlso](http://twitter.com/AugustAlso).
