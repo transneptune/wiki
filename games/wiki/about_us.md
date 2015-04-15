@@ -3,8 +3,8 @@
 ## Who are we?
 
 We’re a little game company based out of scenic Boulder, CO. We make tabletop
-role-playing games, particularly games in the post-Forge-RPG tradition. Sadly,
-this isn’t our day-job, but we do love it and want to get back to you.
+role-playing games, particularly games in the post-Forge indie-RPG tradition.
+Sadly, this isn’t our day-job, but we do love it and want to get back to you.
 
 ## W. Austin Bookheimer
 
