@@ -10,9 +10,9 @@ do love it and want to get back to you.
 ## W. Austin Bookheimer
 
 A philosopher and nocturnalist, sometimes gentleman thief. Austin enjoys long
-walks on Titan VII’s methane-snow-covered beaches, and bonfire-lit dinners with
-the Maenads on the mountain. Given the choice between magic and cybernetics, he
-would choose cybernetics. When he tweets, it’s
+walks on Titan&nbsp;VII’s methane-snow-covered beaches, and bonfire-lit dinners
+with the Maenads on the mountain. Given the choice between magic and
+cybernetics, he would choose cybernetics. When he tweets, it’s
 [@AugustAlso](http://twitter.com/AugustAlso).
 
 ## Kit La Touche
