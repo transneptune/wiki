@@ -6,7 +6,12 @@ We’re a little game company based out of scenic Boulder, CO. We make tabletop
 role-playing games, particularly games in the post-Forge indie-RPG tradition.
 Sadly, this isn’t our day-job, but we do love it and want to get back to you.
 
-## W. Austin Bookheimer
+## How to reach us
+
+The best ways are probably via Twitter, G+, or [our contact
+form](http://games.transneptune.net/contact/).
+
+## [W. Austin Bookheimer](https://plus.google.com/111145957696838369989/posts)
 
 A philosopher and nocturnalist, sometimes gentleman thief. Austin enjoys long
 walks on Titan&nbsp;VII’s methane-snow-covered beaches, and bonfire-lit dinners
@@ -14,7 +19,7 @@ with the Maenads on the mountain. Given the choice between magic and
 cybernetics, he would choose cybernetics. When he tweets, it’s
 [@AugustAlso](http://twitter.com/AugustAlso).
 
-## Kit La Touche
+## [Kit La Touche](https://plus.google.com/+KitLaTouche/posts)
 
 A webdeveloper and Pythonista, sometimes psychopomp. Kit enjoys editing and
 typography, the weird phenomena to be observed in human languages, and wrecking
@@ -23,14 +28,14 @@ this is hosted. As such, his personal blog can be found
 [here](http://transneptune.net/blog/). He tweets a lot
 [@wlonk](http://twitter.com/wlonk).
 
-## John LeBoeuf-Little
+## [John LeBoeuf-Little](https://plus.google.com/+JohnLeBoeufLittle/posts)
 
 A programmer and climber, sometimes master strategist. John has coded in Java,
 C#, C++, and plenty of obscure languages besides. His favorite strategy game is
 Go; his least favorite game is Candy Land. He tweets just enough
 [@worldnamer](http://twitter.com/worldnamer).
 
-## Allie McCarthy
+## [Allie McCarthy](https://plus.google.com/114745034260162338704/posts)
 
 An artist and writer, sometimes ifrit. She can be found on Twitter
 [@SpacePlesiosaur](http://twitter.com/SpacePlesiosaur).
