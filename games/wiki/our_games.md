@@ -1,18 +1,14 @@
-Our Games
-=========
+# Our Games
 
-Published:
-----------
+## Published:
 
  - [Becoming Heroes](http://games.transneptune.net/games/becoming-heroes/)
  - [Lucid](http://games.transneptune.net/games/lucid/)
 
-Beta:
------
+## Beta:
 
  - [Piece of Work](http://games.transneptune.net/games/a-piece-of-work/)
 
-Alpha:
-------
+## Alpha:
 
  - [Et in Arcadia Ego](http://games.transneptune.net/games/et-in-arcadia-ego/)

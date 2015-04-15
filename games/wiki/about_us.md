@@ -27,8 +27,8 @@ this is hosted. As such, his personal blog can be found
 ## John LeBoeuf-Little
 
 A programmer and climber, sometimes master strategist. John has coded in Java,
-C#, C++, and plenty of obscure languages besides. His favorite strategy game
-is Go; his least favorite game is Candy Land. He tweets just enough
+C#, C++, and plenty of obscure languages besides. His favorite strategy game is
+Go; his least favorite game is Candy Land. He tweets just enough
 [@worldnamer](http://twitter.com/worldnamer).
 
 ## Allie McCarthy

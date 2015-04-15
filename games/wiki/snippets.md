@@ -1,5 +1,4 @@
-Snippets
-========
+# Snippets
 
 > In general, my experience with systems that focus the mechanics directly on
 > driving emulation of literary or dramatic tropes has been that they produce
