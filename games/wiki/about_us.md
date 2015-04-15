@@ -17,10 +17,10 @@ would choose cybernetics. When he tweets, it’s
 
 ## Kit La Touche
 
-A webdeveloper and Pythonista, sometimes werebear. Kit enjoys editing and
-typography, the weird phenomena to be observed in human languages, and
-wrecking ships on rocky beaches. He’s also responsible for maintaining the
-server where this is hosted. As such, his personal blog can be found
+A webdeveloper and Pythonista, sometimes psychopomp. Kit enjoys editing and
+typography, the weird phenomena to be observed in human languages, and wrecking
+ships on rocky beaches. He’s also responsible for maintaining the server where
+this is hosted. As such, his personal blog can be found
 [here](http://transneptune.net/blog/). He tweets a lot
 [@wlonk](http://twitter.com/wlonk).
 
