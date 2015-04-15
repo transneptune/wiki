@@ -3,7 +3,7 @@ PeterAronson September 2011
 
 If **Becoming Heroes** was a standard generic RPG like GURPS, I'd assume that it was expected that creating/choosing the setting was the GMs job.  However, BH seems to assume a more collaborative approach to setting (which is awesome).
 
-It struck me, however, when I did my first read-through of BH that there was precious little actual  guidance about how the group was to select a setting and to what extent it (if at all) needs to be fleshed out before play.  This isn't necessarily helped by the fact that the only actual play I could find for BH pretty much adopted an existing setting wholesale (the Whoverse*).
+It struck me, however, when I did my first read-through of BH that there was precious little actual  guidance about how the group was to select a setting and to what extent it (if at all) needs to be fleshed out before play.  This isn't necessarily helped by the fact that the only actual play I could find for BH pretty much adopted an existing setting wholesale (the Whoverse\*).
 
 Not that there's anything wrong with using BH to running existing settings.  Existing settings can have the significant advantage that if selected correctly, all the players will already be familiar with the setting without having to do any homework.  But if running existing settings is going to be BH's "killer ap", then that ought to be emphasized a bit more (yes, there is a line about not being afraid to steal settings you like, but that's a bit milder than what I’m talking about). 
 
@@ -21,9 +21,9 @@ It would seem rather difficult, after all, to create appropriate characters with
 
 Now, to be honest, I might have been somewhat influenced by my recent disappointment when reading an RPG called **Archetype**, which seemed to consist almost entirely of character creation rules (including a powers system), a resolution system and a three page bestiary.  I found it rather incomplete.  Even OD&D had more guidance than that!  You could argue this is pretty much what BH provides, although I would say that the BH’s Chapter VI, "Running the Game" makes a big difference.  But not necessarily enough difference in this particular area.
 
-(* The AP for this game would be a lot more useful if it actually made any reference to the mechanics used other than the character sheets.  If you weren’t a player, all that’s there is Dr. Who fan-fiction.)
+(\* The AP for this game would be a lot more useful if it actually made any reference to the mechanics used other than the character sheets.  If you weren’t a player, all that’s there is Dr. Who fan-fiction.)
 
-kobutsu September 2011 EditDelete
+Kit September 2011 EditDelete
 ---------------------------------
 
 Sorry for the delay in responding. This post has had me thinking.
@@ -53,13 +53,13 @@ I've heard of groups using a different game for setting creation than playing ou
 
 (PS: Based on reading only, a capsule description of BH could be: a cross between Wushu and Story Engine by way of Joseph Campbell...)
 
-kobutsu September 2011
+Kit September 2011
 ----------------------
 
 The idea of using a game to help jostle fictional ideas is great. When I wrote more fiction, I would start each day by drawing a random prompt from a bowl of them I kept next to my computer, and just writing a thousand words on that bit of fiction. Sounds like this is to a similar end. Sort of like gesture drawings for visual art.
 
 
-kobutsu September 2011
+Kit September 2011
 ----------------------
 
 Huh, never seen _Story Engine_. I'll check it out. But yeah, Wushu is certainly an influence. But there are a lot of other things going on in there, too. Particularly when you get into how arcs take shape in longer-term play.
@@ -69,7 +69,7 @@ PeterAronson September 2011
 
 The thing about Story Engine is that it has scene-based resolution like BH, which isn't really all that common (it also has free-form traits, which while not uncommon these days is another commonality).  And, yeah, I know there are other things going on in BH than in Wushu, but the resemblance is there.  And the Joseph Campbell reference covers the arcs... ;)
 
-kobutsu September 2011
+Kit September 2011
 ----------------------
 
 Right. We talked a lot about Campbell as we developed, so we've got a wonky view—we consciously tried to move away from "hero with a thousand faces", to actually articulate the thousand faces. But you're right, of course.
@@ -81,7 +81,7 @@ A little late to this discussion. I find one wonderful way to come up with a set
 
 <http://www.clanwebsite.org/games/rpg/Dawn_of_Worlds_game_1_0Final.pdf>
 
-kobutsu April 2012
+Kit April 2012
 ------------------
 
 @gnomish_brigand, cool! We'll have to try it. We've been playing with the idea of using Ben Robbins' [_Microscope_](http://www.lamemage.com/) for that, too.

@@ -1,4 +1,4 @@
-kobutsu August 2011
+Kit August 2011
 -------------------
 
 So, something Amir said in [Post Your Character!](/forum/post_your_character) made me think about a technique we use when playing Becoming Heroes that we didn't include in the book: internal conflicts.

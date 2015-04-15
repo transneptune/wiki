@@ -37,7 +37,7 @@ Austin, thanks for the answer!  What you're saying makes sense, but it could be 
 
 As it seems to say that even if a player doesn't choose the put in the life die, if the opponent is fighting to kill and the players lose the conflict, then the GM can still kill the player's character.  Since the player didn't add in the life die voluntarily, there is no clear signal that they are willing for the their character to die or to suffer a fate worse than death.  This seems to me to make the whole idea of a life die less useful.  Yeah, it would be potentially dickish for the GM to pull something like that, and one should do one's best not to play with dicks, but still, part of the purpose of a rule book is tell how the game is played.  Not just the rules, but the procedures as well.  BH seems a little weak on the procedures here (and in the area of creating/choosing setting, but that's another topic).
 
-kobutsu September 2011
+Kit September 2011
 ----------------------
 
 So, if I understand what you're saying: there's a situation in which the GM can force character death on a PC (when the GM forces the Life Die, and the GM wins), but no clear guidance as to when that might be appropriate to do?
@@ -48,7 +48,7 @@ This game puts a lot of faith in the people playing it to act fairly to each oth
 
 Now, let's talk about creating/choosing setting in another thread. I'm really interested to hear your thoughts, as it's something we've had a lot of debate over.
 
-kobutsu September 2011
+Kit September 2011
 ----------------------
 
 Oh, two more things:
@@ -67,7 +67,7 @@ Now **that** is an interesting point I hadn't considered.  If you can't afford t
 
 I'll try to put the post about setting together tonight.
 
-kobutsu September 2011
+Kit September 2011
 ----------------------
 
 That's actually kind of what the Mass Conflict system is for, too: it's a threat to encourage certain behavior. We almost never use it as such—instead, we do certain things because we want to avoid the horror it can cause.

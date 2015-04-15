@@ -51,7 +51,7 @@ For threads I like the rank 1 ones, but rank 2 and especially rank 3 are a bit i
 
 So whaddaya guys think?
 
-kobutsu July 2011
+Kit July 2011
 -----------------
 
 Cool!
@@ -79,7 +79,7 @@ Enjoys His Job Too Much? Therefore he neglects his responsibilities as Peter Par
 
 Thanks worldnamer, appreciate the props.
 
-kobutsu August 2011
+Kit August 2011
 -------------------
 
 This is something worth spinning into another thread at some point: internal conflicts. We've been using them almost since the beginning, but we didn't write them into the book for some reason. If you can use a Trait to support your darker behavior, it's a good villainous one.
