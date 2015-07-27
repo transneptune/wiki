@@ -6,6 +6,7 @@ template-dir: "templates"
 
 markdown:
   extensions:
+    - footnotes
     - extra
     - headerid
     - smartypants
