@@ -2,6 +2,7 @@ wiki-name: "Transneptune Games"
 
 use-default-templates: false
 use-default-static: false
+template-dir: "templates"
 
 markdown:
   extensions:
