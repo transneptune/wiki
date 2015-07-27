@@ -17,3 +17,9 @@
 
 Something Vincent said somewhere somewhen about making characters' decisions
 irrevocable?
+
+---
+
+Something Ryan said about how _Dogs in the Vineyard_ lets you do a number of
+beats between escalations; not everything is an escalation all the time. Only
+things that matter.
