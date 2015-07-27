@@ -19,6 +19,11 @@ strong {
 	font-weight: bold;
 }
 
+sup {
+    font-size: 65%;
+    vertical-align: super;
+}
+
 blockquote {
 	margin-left: 40px;
 	color: #555;

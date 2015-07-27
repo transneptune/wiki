@@ -6,7 +6,9 @@ template-dir: "templates"
 
 markdown:
   extensions:
-    - footnotes
     - extra
+    - footnotes
     - headerid
     - smartypants
+    - toc
+    - wikilinks
