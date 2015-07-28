@@ -12,3 +12,7 @@ markdown:
     - smartypants
     - toc
     - wikilinks
+  extension-configs:
+    smartypants:
+      configs:
+        entities: 'named'
