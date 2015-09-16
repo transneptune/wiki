@@ -1,7 +1,7 @@
 /* Taken from the excellent stylings of http://grimoire.ca/ */
 /* typography */
 body {
-    font-family: 'Buenard', serif;
+    font-family: 'Merriweather', serif;
     font-size: 20px;
     line-height: 30px;
 }
@@ -25,11 +25,12 @@ sup {
 }
 
 blockquote {
-    margin-left: 40px;
     color: #555;
+    margin-left: 40px;
 }
 
-:link {
+a:link {
+    color: #009;
     text-decoration: none;
 }
 
@@ -41,7 +42,7 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
+    font-family: 'Cinzel', serif;
     margin-left: -40px;
 }
 
