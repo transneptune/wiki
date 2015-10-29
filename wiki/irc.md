@@ -3,6 +3,10 @@
 Some folks have asked me how they can join in the Transneptune IRC channel.
 What follows is a guide for those new to IRC.
 
+This guide is still technically accurate, but at this point, we're mostly on
+[Slack](https://slack.com/). Ping [Kit](https://twitter.com/wlonk) on Twitter
+if you want an invite.
+
 ---
 
 IRC is not quite like the chat you know. It's a wild and woolly frontier from
