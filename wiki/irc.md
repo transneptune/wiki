@@ -5,7 +5,8 @@ What follows is a guide for those new to IRC.
 
 This guide is still technically accurate, but at this point, we're mostly on
 [Slack](https://slack.com/). Ping [Kit](https://twitter.com/wlonk) on Twitter
-if you want an invite.
+if you want an invite. Or just use [the automatic signup
+form](http://slack.transneptune.net/).
 
 ---
 
