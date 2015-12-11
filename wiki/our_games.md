@@ -2,13 +2,13 @@
 
 ## Published:
 
- - [Becoming Heroes](http://games.transneptune.net/games/becoming-heroes/)
- - [Lucid](http://games.transneptune.net/games/lucid/)
+ - [Becoming Heroes](https://transneptunegames.com/games/becoming-heroes/)
+ - [Lucid](https://transneptunegames.com/games/lucid/)
 
 ## Beta:
 
- - [Piece of Work](http://games.transneptune.net/games/a-piece-of-work/)
+ - [Piece of Work](https://transneptunegames.com/games/a-piece-of-work/)
 
 ## Alpha:
 
- - [Et in Arcadia Ego](http://games.transneptune.net/games/et-in-arcadia-ego/)
+ - [Et in Arcadia Ego](https://transneptunegames.com/games/et-in-arcadia-ego/)
