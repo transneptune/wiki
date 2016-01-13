@@ -46,6 +46,10 @@
                 {{ config['wiki-name']|e }} —
             {% endif %}
             Powered by <strike>the Apocalpyse</strike> <a href="http://markdoc.org/">Markdoc</a>.
+            &bull;
+            {% block scm_info %}
+            <a href="https://github.com/transneptune/wiki">See it on GitHub</a>.
+            {% endblock %}
         </p>
     </div>
     {% endblock %}
