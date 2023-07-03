@@ -1,5 +1,7 @@
 # IRC
 
+> This is no longer applicable! I'll leave it here for archival interest.
+
 Some folks have asked me how they can join in the Transneptune IRC channel.
 What follows is a guide for those new to IRC.
 
