@@ -92,9 +92,9 @@ I want to flag.
 
 *Masks*, p136, "Make a move when...":
 
-> You make a move---as hard or as soft as you like---when:\
-> ... there's a lull in the conversation.\
-> ... a player misses a roll.\
+> You make a move---as hard or as soft as you like---when:  
+> ... there's a lull in the conversation.  
+> ... a player misses a roll.  
 > ... a player hands you a golden opportunity.
 
 *Masks*, p155, "Villains":
