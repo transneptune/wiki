@@ -381,6 +381,14 @@ Corley adds:
 This is good stuff, but I want you to particularly think about it as it
 relates to the team and the relationships inside the team.
 
+Also! _They're teens._ Not mature people with mature reactions to things, not
+people secure in themselves. Yes, teens are all of those things _sometimes_,
+but not reliably. And your characters need to have periods of losing themselves
+in the shapes others try to make for them, too. This applies even if you're a
+Newborn who was made yesterday, or a Nomad who's been around for centuries:
+your psychological age and _idiom_ is that of a teenage human. Please,
+encourage your players to know and do this.
+
 ## Good villains, bad villains, and villains in between
 
 "Villains", especially in *Masks*, are not always pursuing *eeeevil*.
