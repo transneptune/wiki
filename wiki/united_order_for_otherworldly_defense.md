@@ -25,3 +25,10 @@ they can be posted and shared in the organization's archives.
 Probably set this in the late 20s? Colonialist problems, rise of Nazis doing
 ill-advised supernatural shit as clear enemies, capitalist/communist tensions.
 Lots of options.
+
+Some suggestions from a friend for the major factions in the United Order:
+
+ - Wǔdāng
+ - Bizango
+ - Negoro-shū (Shugenja)
+ - Pulahan
