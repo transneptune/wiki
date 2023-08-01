@@ -27,15 +27,6 @@
 				</ul>
 			</div>
 		{% endif %}
-
-		{% if files %}
-			<div id="files">
-				<h2>Files</h2>
-				{% for file in files %}
-					<li><a href="{{ make_relative(file.href) }}">{{ file.basename|e }}</a></li>
-				{% endfor %}
-			</div>
-		{% endif %}
 	</div>
 {% endblock %}
 
